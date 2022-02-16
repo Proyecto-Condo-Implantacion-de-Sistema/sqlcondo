@@ -20,7 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `condo`
 --
-
+/* a partir de aqui las tablas fueron hechas por mi, Juan Nunes, no olvidar dejar un comentario de esta manera en caso de hacer una modificacion*/
 -- --------------------------------------------------------
 
 --
